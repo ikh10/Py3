@@ -1,5 +1,5 @@
-#🎯 Mini Python Series – Py2
-Welcome to **Py2**, a mini Python project series! This series continues my journey to sharpen Python basics through short, purposeful projects. This series involve basic concepts and focuses on *loops* and *lists*.
+# 🎯 Mini Python Series – Py2
+Welcome to **Py2**, a mini Python project series! This series continues my journey to sharpen Python basics through short, purposeful projects. This series involve basic concepts and focuses on **loops** and **lists**.
 
 ## This Py1 series include:
 1. Rock, Paper, Scissors Game
@@ -10,7 +10,7 @@ Welcome to **Py2**, a mini Python project series! This series continues my journ
 
 ---
 
-# 1. ✊✋✌️ Rock Paper Scissors 
+### 1. ✊✋✌️ Rock Paper Scissors 
 
 A simple command-line Rock, Paper, Scissors game where you play against the computer!
 
