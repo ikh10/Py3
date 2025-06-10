@@ -1,7 +1,7 @@
-# 🎯 Mini Python Series – Py2
-Welcome to **Py2**, a mini Python project series! This series continues my journey to sharpen Python basics through short, purposeful projects. This series involve basic concepts and focuses on **loops** and **lists**.
+# 🎯 Mini Python Series – Py3
+Welcome to **Py3**, a mini Python project series! This series continues my journey to sharpen Python basics through short, purposeful projects. This series involve basic concepts and focuses on **loops** and **lists**.
 
-## This Py1 series include:
+## This Py3 series include:
 1. Rock, Paper, Scissors Game
 2. Simple Quiz Game
 3. Word Scramble
