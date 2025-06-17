@@ -36,3 +36,12 @@ A basic rule-based chatbot built with Python that can carry out casual conversat
 - Simple terminal-based interface
 
 ---
+
+### 3. 🧩 Word Scramble
+
+A simple terminal-based word scramble game built with Python. It selects a random word, scrambles the letters, and challenges the player to guess the original word.
+
+**Features:**
+- Selects a random word from a predefined list and scrambles it.
+- 3 attempts to guess the correct word.
+- User input is matched without worrying about uppercase or lowercase letters.
